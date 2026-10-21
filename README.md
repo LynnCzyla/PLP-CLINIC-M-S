@@ -72,7 +72,7 @@ Developed as a school project by Group 5.
 1. Install **XAMPP** (Apache + MySQL + PHP).
 2. Clone this repo into your `htdocs` folder:
 ```
-   git clone https://github.com/<your-username>/PLP-CLINIC-M-S.git
+   git clone https://github.com/jalzoren/PLP-CLINIC-M-S.git
 ```
 3. Start **Apache** and **MySQL** in XAMPP.
 4. Create a database named `clinic_system` in phpMyAdmin and import `db/clinic_system.sql`.
